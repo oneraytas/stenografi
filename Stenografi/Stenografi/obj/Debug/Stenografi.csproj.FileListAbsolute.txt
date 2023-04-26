@@ -1,0 +1,13 @@
+C:\Users\Oner\source\repos\Stenografi\Stenografi\bin\Debug\Stenografi.exe.config
+C:\Users\Oner\source\repos\Stenografi\Stenografi\bin\Debug\Stenografi.exe
+C:\Users\Oner\source\repos\Stenografi\Stenografi\bin\Debug\Stenografi.pdb
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.csproj.AssemblyReference.cache
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.Form1.resources
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.Properties.Resources.resources
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.csproj.GenerateResource.cache
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.csproj.CoreCompileInputs.cache
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.exe
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.pdb
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.stenosifre.resources
+C:\Users\Oner\source\repos\Stenografi\Stenografi\obj\Debug\Stenografi.stenocoz.resources
